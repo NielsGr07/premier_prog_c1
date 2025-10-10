@@ -2,7 +2,7 @@
 
 int main() {
     // Variables dynamiques
-    int speed    = 300;     // en kts
+    int speed    = 200;     // en kts
     int altitude = 10000;   // en ft
     int pitch    = 5;       // degrés
     int roll     = -10;     // degrés
